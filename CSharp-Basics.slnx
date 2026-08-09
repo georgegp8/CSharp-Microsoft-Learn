@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="CSharp-Basics/01-Escribir-el-primer-codigo.csproj" />
+  <Project Path="01-Escribir-el-primer-codigo/01-Escribir-el-primer-codigo.csproj" />
+  <Project Path="02-Aprende-como-funciona/02-Aprende-como-funciona.csproj" />
 </Solution>
